@@ -1,0 +1,13 @@
+.red-highlight {
+    background-color: lightcoral;
+}
+
+#blue-text {
+    color: blue;
+    font-size: xx-large;
+}
+
+#green-highlight {
+    background-color: lightgreen;
+    font-weight: bold;
+}
