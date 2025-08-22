@@ -1,0 +1,13 @@
+.big {
+    font-size: xx-large;
+}
+
+#white-on-black{
+    color: white;
+    background-color: Black;
+}
+
+#black-on-yellow{
+    color: black;
+    background-color: yellow;
+}
